@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.frmGiris.resources
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.frmYönetici.resources
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Acer\Desktop\ŞEYDA GÜNDOĞDU - NDP ÖDEV\Kütüphane\obj\Debug\Kütüphane.pdb
